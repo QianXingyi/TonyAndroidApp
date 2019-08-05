@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user">User Info</string>
+    <string name="chat">Chatting</string>
+    <string name="aboutme">Support</string>
+    <string name="qt">QT—好用的聊天软件</string>
+
+</resources>

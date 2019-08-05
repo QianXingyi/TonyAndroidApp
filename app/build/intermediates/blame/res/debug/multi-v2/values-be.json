@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
+            "map": [
+                {
+                    "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

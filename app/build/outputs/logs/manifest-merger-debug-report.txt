@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:2:1-73:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/10e96eed290fbef206e84e1b8f8bdfcb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/e7eee14dffcec2c7950cc38d0e2e7aac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/315211e032f3b52b93147d4f468dc0f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/e92cf7a336e64b4d1594dfaa508cae3d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/24f790d3316f771ddd69c28ab97e5d31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/5fb2288c137ce09578bec3b484eefa6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/63ebcff5d5be5facdad13c8f8b113c7c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/2009875c4de71e00dfb6e0695add61a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/c81b5f05ae6ffff7a3b91a85627e559e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/e89549a14be9e9db23362ea73e2b3ada/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/44762ca50c4078c2300e910f93735e3d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/cf2f9b469760e45e60646b287501212f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/5de32ddc16eb26ae3a97e06889f8e425/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/4398347d78f92dd0bc30009ba6f32a69/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/192f12cf820681c0ff7c81f8df19e7c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/59d2f58de52f0c20f2e369a16c79fd73/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/46818882469e4e5451b88d90111fa922/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/01d8ed7b819a4c40be9953c409901afb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/029c5dfb5b718d1365b992c9cc167741/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/6ccac8767deff947bc73a70fedaabcb5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/7eae7da864b598027fbcb20c59cef374/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/333b1cbcfcf6dcb263ebd747a38b10f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/54a6f47357b94912c8978a6c1762e903/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/f542e51e1d34f046753078be10d8aa3f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:7:22-66
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:11:5-84
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:11:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:16:5-72
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:16:22-70
+application
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:18:5-71:19
+MERGED from [androidx.core:core:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/4398347d78f92dd0bc30009ba6f32a69/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/4398347d78f92dd0bc30009ba6f32a69/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:23:9-44
+	android:logo
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:22:9-41
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:24:9-26:60
+	android:value
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:25:9-48
+activity#com.example.tonyandroidapp.MainActivity
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:27:9-35:20
+	android:label
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:33:27-74
+activity#com.example.tonyandroidapp.LoginActivity
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:37:13-68
+activity#com.example.tonyandroidapp.PayActivity
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:42:13-32
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:41:13-66
+activity#com.example.tonyandroidapp.AddActivity
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:46:13-32
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:45:13-66
+activity#com.example.tonyandroidapp.CoreActivity
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:50:13-39
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:49:13-67
+activity#com.example.tonyandroidapp.SocketActivity
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:54:13-39
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:53:13-69
+activity#com.example.tonyandroidapp.ChangeActivity
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:58:13-39
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:57:13-69
+activity#com.example.tonyandroidapp.NewUserActivity
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:60:9-63:20
+	android:label
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:62:13-39
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:61:13-70
+activity#com.example.tonyandroidapp.MapActivity
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:64:9-67:20
+	android:label
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:66:13-39
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:65:13-66
+service#com.example.tonyandroidapp.MyService
+ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:69:9-70:19
+	android:name
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml:69:18-69
+uses-sdk
+INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/10e96eed290fbef206e84e1b8f8bdfcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/10e96eed290fbef206e84e1b8f8bdfcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/e7eee14dffcec2c7950cc38d0e2e7aac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/e7eee14dffcec2c7950cc38d0e2e7aac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/315211e032f3b52b93147d4f468dc0f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/315211e032f3b52b93147d4f468dc0f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/e92cf7a336e64b4d1594dfaa508cae3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/e92cf7a336e64b4d1594dfaa508cae3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/24f790d3316f771ddd69c28ab97e5d31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/24f790d3316f771ddd69c28ab97e5d31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/5fb2288c137ce09578bec3b484eefa6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/5fb2288c137ce09578bec3b484eefa6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/63ebcff5d5be5facdad13c8f8b113c7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/63ebcff5d5be5facdad13c8f8b113c7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/2009875c4de71e00dfb6e0695add61a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/2009875c4de71e00dfb6e0695add61a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/c81b5f05ae6ffff7a3b91a85627e559e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/c81b5f05ae6ffff7a3b91a85627e559e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/e89549a14be9e9db23362ea73e2b3ada/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/e89549a14be9e9db23362ea73e2b3ada/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/44762ca50c4078c2300e910f93735e3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/44762ca50c4078c2300e910f93735e3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/cf2f9b469760e45e60646b287501212f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/cf2f9b469760e45e60646b287501212f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/5de32ddc16eb26ae3a97e06889f8e425/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/5de32ddc16eb26ae3a97e06889f8e425/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/4398347d78f92dd0bc30009ba6f32a69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/4398347d78f92dd0bc30009ba6f32a69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/192f12cf820681c0ff7c81f8df19e7c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/192f12cf820681c0ff7c81f8df19e7c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/59d2f58de52f0c20f2e369a16c79fd73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/59d2f58de52f0c20f2e369a16c79fd73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/46818882469e4e5451b88d90111fa922/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/46818882469e4e5451b88d90111fa922/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/01d8ed7b819a4c40be9953c409901afb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/01d8ed7b819a4c40be9953c409901afb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/029c5dfb5b718d1365b992c9cc167741/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/029c5dfb5b718d1365b992c9cc167741/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/6ccac8767deff947bc73a70fedaabcb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/6ccac8767deff947bc73a70fedaabcb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/7eae7da864b598027fbcb20c59cef374/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/7eae7da864b598027fbcb20c59cef374/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/333b1cbcfcf6dcb263ebd747a38b10f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/333b1cbcfcf6dcb263ebd747a38b10f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/54a6f47357b94912c8978a6c1762e903/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/54a6f47357b94912c8978a6c1762e903/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/f542e51e1d34f046753078be10d8aa3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/pc/.gradle/caches/transforms-2/files-2.1/f542e51e1d34f046753078be10d8aa3f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/AndroidManifest.xml

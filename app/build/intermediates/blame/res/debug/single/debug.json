@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_aboutme.png.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/drawable-mdpi/aboutme.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_add_activity.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/add_activity.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_activity_change.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/activity_change.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_activity_newuser.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/activity_newuser.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_activity_pay.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/activity_pay.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_activity_core.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/activity_core.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_pay.png.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/drawable-mdpi/pay.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_fragment_chat.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_fragment_user.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/fragment_user.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/e7eee14dffcec2c7950cc38d0e2e7aac/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_activity_bottom_bts.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/activity_bottom_bts.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/e7eee14dffcec2c7950cc38d0e2e7aac/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/e7eee14dffcec2c7950cc38d0e2e7aac/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_simple_item.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/simple_item.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_chat.png.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/drawable-mdpi/chat.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_activity_map.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/activity_map.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_activity_socket.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/activity_socket.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_qt.png.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/drawable-mdpi/qt.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_skip.png.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/drawable-mdpi/skip.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/e7eee14dffcec2c7950cc38d0e2e7aac/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/e7eee14dffcec2c7950cc38d0e2e7aac/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/e7eee14dffcec2c7950cc38d0e2e7aac/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_dot.png.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/drawable-mdpi/dot.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/e7eee14dffcec2c7950cc38d0e2e7aac/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_fragement_me.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/fragement_me.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_center_logo.png.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/drawable-mdpi/center_logo.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/e7eee14dffcec2c7950cc38d0e2e7aac/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_qt_logo.png.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/drawable-mdpi/qt_logo.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/e7eee14dffcec2c7950cc38d0e2e7aac/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_userinfo.png.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/drawable-mdpi/userinfo.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/pc/Documents/AndroidStudio/TonyAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/pc/.gradle/caches/transforms-2/files-2.1/032aa44a1d68f61a481f2e767f078030/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    }
+]
