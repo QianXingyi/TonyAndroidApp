@@ -21,6 +21,7 @@ public class MyServer {
             // 每当客户端连接后启动一条ServerThread线程为该客户端服务
             System.out.println("1");
             new Thread(new ServerThread(s)).start();
+            //
             System.out.println("2");
         }
     }
